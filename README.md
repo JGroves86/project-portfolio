@@ -1,5 +1,5 @@
 # project-portfolio
-Repository containing links to technical writing samples
+Repository containing links to technical writing samples.
 
 ## Oracle Health Patient Portal Administrative Console
 Administrator documentation for setting up and using Oracle Health Patient Portal.
@@ -14,14 +14,14 @@ Oracle Health Patient Portal is an application that helps patients schedule appo
 The About Oracle Health Patient Portal page is a document required by healthcare IT regulations.
 
 ## Oracle Health Analytics Intelligence
-User documentation and administrator documentation for setting up and using Oracle Health Analytics Intelligence.
+User documentation, administrator documentation, and release notes for setting up and using Oracle Health Analytics Intelligence.
 
 ### Project Overview
 Oracle Health Analytics Intelligence is a solution that combines multiple Oracle products to enable life sciences customers and research institutions such as universities to access deidentified, standardized real-world data from the Oracle Health Information Network. Provider organizations like hospitals can contribute data to OHIN, and that combined data is made available for researchers.
 
 Oracle Health Analytics Intelligence customers have access to their own dedicated Oracle Cloud Infrastructure instance, Oracle Autonomous Data Warehouse and Database Actions (formerly Oracle SQL Developer), and the Data Science service. Using Database Actions to narrow down the data set and Jupyter Notebooks provided in the Data Science service, customers then use Oracle Analytics Cloud to create data visualizations to test their hypotheses.
 
-I worked closely with the product team on this project to leverage existing content for Database Actions, Data Science Service, and Oracle Analytics Cloud to create documentation for this product.
+I worked closely with the product team on this project to leverage existing content for Database Actions, Data Science Service, and Oracle Analytics Cloud to create documentation for this product. For this product, I learned the basics of SQL, Oracle Analytics Cloud, Jupyter 
 
 ## Tools
 
@@ -29,6 +29,9 @@ I worked closely with the product team on this project to leverage existing cont
 * Oxygen 27.1
 * Oracle Authoring Knowledge Foundation (OAK) CCMS
 * Confluence Wiki
+* GitLab
+* VSCode
+* Git Bash
 * Acrolinx
 
 ### Project Management Tools
@@ -36,8 +39,8 @@ I worked closely with the product team on this project to leverage existing cont
 * Slack
 * Figma
 
-### Skills
+## Skills
 * DITA XML
-* Oracle Content Management
 * Markdown
 * HTML
+* SQL

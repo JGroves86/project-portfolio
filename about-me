@@ -1,8 +1,31 @@
 ## About Me
-I graduated from Truman State University in Kirksville, MO in 2007 with a BA in Communication with an emphasis in Journalism. I worked at a media company in central Iowa where I was the news director and morning host for a morning radio program and a reporter covering all aspects of local news. During that time, I covered everything from personal interest stories to parks department meetings to police to court proceedings. 
+I graduated from Truman State University in Kirksville, MO in 2007 with a BA in Communication with an emphasis in Journalism. 
+
+### Times Citizen
+
+I worked at a media company in central Iowa where I was the news director and morning host for a morning radio program and a reporter covering all aspects of local news. During that time, I covered everything from personal interest stories to parks department meetings to police to court proceedings. 
+
 
 In 2008, I moved to Kansas City, MO and worked on a marketing campaign for AT&T where we launched their fiber optic service in Kansas City. 
 
+### Grantham University
+
 In 2009, I got a job at Grantham University working with veterans and active duty military service members as an academic advisor. During that time, I attended classes myself, receiving my MBA in project management in 2011. During my time at Grantham, I created materials that improved the onboarding process, setting student expectations and standardizing welcome materials and class pathways for different degree programs. As a result, the number of students returning for additional classes increased by 12 percent. I then helped launch a free, optional financial literacy course for students and their spouses, which grew to having more than 300 students enrolled by the third semester it was available.
 
-In 2012, I joined Cerner Corporation, a healthcare IT company, as a learning developer. In that role, I created training materials for customers. 
+### Cerner Corporation
+
+In 2012, I joined Cerner Corporation, a healthcare IT company, as a learning developer. In that role, I created training materials for customers. I soon started writing documentation for several of the more back-end and technical products including Discern, Database Architecture, and Identity and Access Management. In this capacity, I wrote Help documentation and Reference Documentation. 
+
+In 2014, I moved into an open team lead role, where I managed a group of six technical writers of all career stages. Gaining hands-on experience, I realized there was an opportunity to implement more effective project management software to align more closely with what our engineering teams used. So, I worked on the effort to implement Jira across our team. Jira provided a way to track our work and made us much more able to delegate work as needed across the team. We continued iterating and improving how we used Jira, using a modified Kanban to track our work. 
+
+In 2016, we merged with the release documentation team and began covering end-to-end product documentation for our products. This made us even more efficient and enabled technical writers to take more ownership of their products. Whereas previously, the release documentation developers would hand off their documentation to the product documentation developers, now everyone had the full picture of the lifecycle of the product. 
+
+During this time, Cerner acquired Seimens Health Services and I began to realize there were large variances in the style each team used, so I took it upon myself to create a business justification to implement a tool that we could use to measure content at scale. After a lengthy process, leadership agreed to support implementing Acrolinx so we could measure content quality at scale and provide guidance for users at the point of authoring. I went through the process to get funding approved and we started the implementation process in 2019. During the first six months of implementing Acrolinx, our team's overall quality scores increased from 74.1 to 86 and our time to onboard new writers decreased by 25 percent. We included Acrolinx into our quality review process and implemented it in Confluence Wiki and in Word.
+
+In late 2019, we started a documentation team in India and Acrolinx and Jira were both instrumental in making sure we were able to stay in sync with project deliverables and ensure a high quality of documentation.
+
+### Oracle Health
+
+Oracle acquired Cerner in 2022 and our team became part of Oracle Health. This change brought about a huge shift in our work. Whereas under Cerner, we were largely aligned with engineering, under Oracle, we moved into the centralized Oracle Design group. While continuing to support the legacy Cerner products as we always have, our focus shifted much more to UX writing and ensuring that the messaging in the application was clear, concise, and consistent. Additionally, we shifted from primarily using Confluence and other home-grown tools to using industry-standard tools such as Figma and Oxygen. 
+
+Our team rebranded from product documentation to user assistance, and our mandate shifted as well. No longer were we just documenting features, but we also were becoming a more integral part of the design process upstream in the development process. I led efforts across the team to learn and implement these new tools and strategies like progressive disclosure to make the content we create as close as possible to the point of use so that users do not have to leave the application to go looking for assistance. Our philosophy is that we should use the power of words to help users accomplish their tasks.

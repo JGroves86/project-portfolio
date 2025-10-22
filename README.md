@@ -13,15 +13,15 @@ Oracle Health Patient Portal is an application that helps patients schedule appo
 
 The About Oracle Health Patient Portal page is a document required by healthcare IT regulations.
 
-## Oracle Health Analytics Intelligence
-User documentation, administrator documentation, and release notes for setting up and using Oracle Health Analytics Intelligence.
+## Oracle Life Sciences AI Data Platform
+User documentation, administrator documentation, and release notes for setting up and using Oracle Life Sciences AI Data Platform
 
 ### Project Overview
-Oracle Health Analytics Intelligence is a solution that combines multiple Oracle products to enable life sciences customers and research institutions such as universities to access deidentified, standardized real-world data from the Oracle Health Information Network. Provider organizations like hospitals can contribute data to OHIN, and that combined data is made available for researchers.
+Oracle Life Sciences AI Data Platform is a solution that combines multiple Oracle products to enable life sciences customers and research institutions such as universities to access deidentified, standardized real-world data from the Oracle Health Information Network (OHIN). Provider organizations like hospitals can contribute data to OHIN, and that combined data is made available for researchers.
 
-Oracle Health Analytics Intelligence customers have access to their own dedicated Oracle Cloud Infrastructure instance, Oracle Autonomous Data Warehouse and Database Actions (formerly Oracle SQL Developer), and the Data Science service. Using Database Actions to narrow down the data set and Jupyter Notebooks provided in the Data Science service, customers then use Oracle Analytics Cloud to create data visualizations to test their hypotheses.
+Oracle Health Analytics Intelligence customers have a dedicated Oracle Cloud Infrastructure instance, Oracle Autonomous Data Warehouse, Database Actions (formerly Oracle SQL Developer), and the Data Science service. Using Database Actions to narrow down the data set and Jupyter Notebooks provided in the Data Science service, customers then use Oracle Analytics Cloud to create data visualizations to test their hypotheses.
 
-I worked closely with the product team on this project to leverage existing content for Database Actions, Data Science Service, and Oracle Analytics Cloud to create documentation for this product. For this product, I learned the basics of SQL, Oracle Analytics Cloud, Jupyter 
+I worked closely with the product team over the course of approximately one month to understand existing content for Database Actions, the Data Science service, and Oracle Analytics Cloud to create documentation for this product. For this product, I learned the basics of SQL, Oracle Analytics Cloud, Database Actions, and Jupyter Notebooks. 
 
 ## Tools
 

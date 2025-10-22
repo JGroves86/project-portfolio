@@ -1,0 +1,6 @@
+## About Oracle Life Sciences AI Data Platform
+
+Oracle Life Sciences AI Data Platform combines multiple Oracle products to enable life sciences customers and research institutions such as universities to access deidentified, standardized real-world data from the Oracle Health Information Network. Provider organizations like hospitals can contribute data to OHIN, and that combined data is made available for researchers.
+
+Oracle Life Sciences AI Data Platform customers have access to their own dedicated Oracle Cloud Infrastructure instance, Oracle Autonomous Data Warehouse, Database Actions (formerly Oracle SQL Developer), and the Data Science service on OCI. Using Database Actions to narrow down the data set and Jupyter Notebooks provided in the Data Science service, customers then use Oracle Analytics Cloud to create data visualizations to test their hypotheses.
+

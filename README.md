@@ -1,4 +1,4 @@
-# project-portfolio
+# Project Portfolio
 Repository containing links to technical writing samples.
 
 ## Oracle Health Patient Portal Administrative Console

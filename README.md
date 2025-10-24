@@ -1,6 +1,7 @@
 # Project Portfolio
 Repository containing links to technical writing samples.
-
+* [Before and After Editing](/before-and-after-editing.md)
+* [Style Guide](/style-guide.md)
 ## Oracle Health Patient Portal Administrative Console
 Administrator documentation for setting up and using Oracle Health Patient Portal.
 
